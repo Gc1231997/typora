@@ -1,0 +1,55 @@
+.classpath
+.project
+*.class
+target
+.settings
+
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+test-output/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+*.iml
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+/.idea
+
+node_modules/
+
+vip_data_club.iml
+*.iml
+
+.idea
+dist/
+
+sh.exe.stackdump
+
+doc/notice/*
+rebel.xml
+
+web/node_modules
+/out/
